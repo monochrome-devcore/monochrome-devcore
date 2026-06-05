@@ -4,7 +4,6 @@
 
 <h3 align="left">About Me</h3>
 
-- 💻 I am a **Frontend Developer**
 - 📫 How to reach me **monochrome.dev@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://portfolio-wine-alpha-70.vercel.app/](https://portfolio-wine-alpha-70.vercel.app/)**
 
